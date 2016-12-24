@@ -1,0 +1,13 @@
+Documentation
+-------------
+fullstack.zip contains files related to the last project in the Intro to Programming Nanodegree.
+
+tournament.sql contains the database schema required to run tournament.py
+
+Here are some steps to make use of these files:
+1. execute tournament.sql as follows: psql -f tournament.sql
+2. execute tournament.py as follows: python tournament.py
+3. check tournament.py with: python tournament_test.py
+
+Note:
+ensure that you have installed psql and python on your machine.
